@@ -1,0 +1,32 @@
+.title3 {
+    background-color: rgb(92, 75, 63);
+    text-align: center;
+    position: absolute;
+    top: 0.6rem;
+    height: 6.3rem;
+    width: 100%;
+}
+
+.title2 {
+    background-color: rgb(71, 58, 49);
+    position: absolute;
+    top: 1rem;
+    width: 100%;
+    height: 7.7rem;
+}
+
+.title1 {
+    background-color: rgb(54, 45, 38);
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+    width: 100%;
+    height: 10rem;
+}
+
+.myweb {
+    font-family: 'Inter', sans-serif;
+    font-size: xx-large;
+    font-weight: 300;
+    color: white;
+}
